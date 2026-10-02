@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет! Я Daniil (Fuzzy-fyz)</h1>
+<h1 align="center">👋 Привет! Я Fuzzy-fyz</h1>
 
 <p align="center">
   <picture>
