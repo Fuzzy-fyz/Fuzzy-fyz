@@ -11,13 +11,13 @@
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=vercel&logoColor=white)](https://fuzzy-fyz-site.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fuzzy-fyz)
 
-🎓 Студент МТУСИ, увлекаюсь IT и AI/ML.
+🎓 Студент МТУСИ, направление топ-ии инженерия систем искусственного интеллекта  
 
-🤖 Занимаюсь AI/ML и Data Science: Python, Pandas, NumPy.
+🤖 Занимаюсь AI/ML и Data Science
 
-🎮 Пишу на Lua/Luau под Roblox, работаю с TypeScript, Git и Docker.
+💯 Пишу на python, изучаю библиотеки pandas, numpy и другие для ML. Так же изучаю SQL и знаю Git
 
-🏠 Работаю из дома.
+🏠 Работаю из дома, но люблю классные офисы.
 
 ## 🌐 Мой сайт
 [fuzzy-fyz-site.vercel.app](https://fuzzy-fyz-site.vercel.app)
